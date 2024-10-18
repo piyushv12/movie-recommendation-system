@@ -32,22 +32,22 @@ The project uses two main datasets:
    git clone https://github.com/piyushv12/movie-recommendation-system.git
 2. Install the necessary dependencies:
    pip install -r requirements.txt
-Usage:--
+## Usage
 
 Open the project.ipynb notebook in Jupyter or any compatible environment.
 Run the cells to load the data and generate movie recommendations based on user inputs.
 
-Technologies:--
+## Technologies
 
-1.Python: Programming language used for data processing and model building.<br>
-2.Jupyter Notebook: Development environment.<br>
-3.Pandas: Data manipulation.<br>
-4.scikit-learn: Machine learning algorithms.<br>
+1. Python: Programming language used for data processing and model building.<br>
+2. Jupyter Notebook: Development environment.<br>
+3. Pandas: Data manipulation.<br>
+4. scikit-learn: Machine learning algorithms.<br>
 
-Contributing:--
+## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request for review.
 
-License:--
+## License
 
 This project is licensed under the MIT License.
