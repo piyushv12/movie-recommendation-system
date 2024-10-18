@@ -57,7 +57,14 @@ Both datasets are required to generate meaningful recommendations based on both 
 ## Installation
 Follow the steps below to set up the project on your local machine:<br>
 
-1. Clone the repository:
+1. Clone the repository:<br>
    git clone https://github.com/yourusername/movie-recommendation-system.git
+2. Navigate to the project directory:<br>
+   cd movie-recommendation-system
+3. Create a virtual environment (optional but recommended):<br>
+   python3 -m venv venv<br>
+   source venv/bin/activate  # On macOS/Linux<br>
+   venv\Scripts\activate     # On Windows<br>
+
 
 
