@@ -65,6 +65,9 @@ Follow the steps below to set up the project on your local machine:<br>
    python3 -m venv venv<br>
    source venv/bin/activate  # On macOS/Linux<br>
    venv\Scripts\activate     # On Windows<br>
-
+4. Install the required dependencies: Install the necessary Python packages using pip:<br>
+   pip install -r requirements.txt
+5. Launch Jupyter Notebook: Start Jupyter Notebook to run the project:<br>
+   jupyter notebook
 
 
