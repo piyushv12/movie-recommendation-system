@@ -53,3 +53,11 @@ Both datasets are required to generate meaningful recommendations based on both 
 * The Jupyter Notebook (project.ipynb) contains the entire project code for loading datasets, data preprocessing, and applying recommendation algorithms.<br>
 * movies.csv and credits.csv are the datasets used for generating recommendations.<br>
 * The requirements.txt file contains all the necessary Python libraries to run the project.<br>
+
+## Installation
+Follow the steps below to set up the project on your local machine:<br>
+
+1. Clone the repository:
+   git clone https://github.com/yourusername/movie-recommendation-system.git
+
+
