@@ -106,12 +106,12 @@ Contributions are welcome! If you would like to contribute to the project, follo
 
 1. Fork the repository.
 2. Create a new branch:
-   git checkout -b feature-branch
+   git checkout -b feature-branch<br>
 3. Make your changes.
 4. Commit the changes:
-   git commit -m "Add new feature"
+   git commit -m "Add new feature"<br>
 5. Push to the branch:
-   git push origin feature-branch
+   git push origin feature-branch<br>
 6. Create a pull request on GitHub.
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
