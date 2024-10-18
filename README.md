@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-This project is a **Movie Recommendation System** that uses collaborative filtering and content-based filtering algorithms to suggest personalized movie recommendations for users.
+This project is a **Movie Recommendation System** that uses collaborative filtering and content-based filtering algorithms to suggest personalized movie recommendations for users.The recommendation system is powered by data from the provided datasets (movies.csv and credits.csv), which include information about movies such as genres, cast, and crew. Users can search for movies and get personalized recommendations based on genres or cast similarities.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
