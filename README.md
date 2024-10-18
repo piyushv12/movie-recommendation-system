@@ -39,10 +39,10 @@ Run the cells to load the data and generate movie recommendations based on user 
 
 Technologies:--
 
-Python: Programming language used for data processing and model building.
-Jupyter Notebook: Development environment.
-Pandas: Data manipulation.
-scikit-learn: Machine learning algorithms.
+1.Python: Programming language used for data processing and model building.
+2.Jupyter Notebook: Development environment.
+3.Pandas: Data manipulation.
+4.scikit-learn: Machine learning algorithms.
 
 Contributing:--
 
