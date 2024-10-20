@@ -58,16 +58,16 @@ Both datasets are required to generate meaningful recommendations based on both 
 Follow the steps below to set up the project on your local machine:<br>
 
 1. Clone the repository:<br>
-   git clone https://github.com/yourusername/movie-recommendation-system.git
-2. Navigate to the project directory:<br>
+   git clone https://github.com/piyushv12/movie-recommendation-system.git
+3. Navigate to the project directory:<br>
    cd movie-recommendation-system
-3. Create a virtual environment (optional but recommended):<br>
+4. Create a virtual environment (optional but recommended):<br>
    python3 -m venv venv<br>
    source venv/bin/activate  # On macOS/Linux<br>
    venv\Scripts\activate     # On Windows<br>
-4. Install the required dependencies: Install the necessary Python packages using pip:<br>
+5. Install the required dependencies: Install the necessary Python packages using pip:<br>
    pip install -r requirements.txt
-5. Launch Jupyter Notebook: Start Jupyter Notebook to run the project:<br>
+6. Launch Jupyter Notebook: Start Jupyter Notebook to run the project:<br>
    jupyter notebook<br>
 
 Open project.ipynb in the browser and execute the cells to see the recommendation system in action.
